@@ -3,6 +3,10 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{khoavu2003}"/>
 </a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoavu2003&layout=compact&theme=radical&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=khoavu2003&show_icons=true&theme=radical" height="165">
+</p>
 <!--
 **khoavu2003/khoavu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
