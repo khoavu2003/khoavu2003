@@ -1,7 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{khoavu2003}" width="1000" height="120"/>
-</a>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{khoavu2003}"/>
 </a>
